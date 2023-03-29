@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-  cout << "First cpp code at repository" << endl;
+  cout << "Fast edit to previous code" << endl;
   return 0;
 }
