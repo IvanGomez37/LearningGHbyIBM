@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-  cout << "Fast edit to previous code" << endl;
+  cout << "Edit from bash" << endl;
   return 0;
 }
